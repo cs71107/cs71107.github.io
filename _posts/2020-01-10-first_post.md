@@ -1,6 +1,6 @@
 ---
 title: "cs71107 블로그 오픈"
-date: 2020-01-10 20:14:00
+date: 2021-01-10 20:14:00
 categories:
 - general
 tags:
