@@ -4,7 +4,7 @@ date: 2021-07-22 21:00:00
 categories:
 - PS
 tags:
-- tree, online query
+- [tree, online query]
 ---
 
 [BOJ 22306](https://www.acmicpc.net/problem/22306)
