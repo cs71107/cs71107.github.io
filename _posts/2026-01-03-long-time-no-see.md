@@ -1,5 +1,5 @@
 ---
-title: "생존신고 및 근황보고
+title: "생존신고 및 근황보고"
 date: 2026-01-03 23:10:00
 categories:
 - general
